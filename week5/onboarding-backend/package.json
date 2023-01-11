@@ -1,0 +1,20 @@
+{
+  "name": "onboarding-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "3번_실습파일.js",
+  "scripts": {
+    "start": "nodemon 3번_실습파일.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "axios": "^1.2.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
